@@ -4,5 +4,6 @@ Repositório de teste para aula
  OUTRA LINHA
 3 atores preferidos
  *Stan Lee
- *Kurt Russell
+ *Angelina Jolie
  *Margaret Thatcher
+ *Arnold Schwarzenegger
