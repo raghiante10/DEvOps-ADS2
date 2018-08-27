@@ -1,5 +1,8 @@
-# DEvOps-ADS2
+﻿# DEvOps-ADS2
 Repositório de teste para aula
 # NOVA LINHA
  OUTRA LINHA
-"baibebaibe"
+3 atores preferidos
+ *Stan Lee
+ *Kurt Russell
+ *Margaret Thatcher
